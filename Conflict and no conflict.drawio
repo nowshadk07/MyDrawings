@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net" modified="2023-05-21T06:25:50.268Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="JrVPQERppiLWGNaCQhk2" version="21.3.2" type="github">
+  <diagram name="Page-1" id="rlwwt7phJ7FUubJyp5yR">
+    <mxGraphModel dx="1434" dy="714" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" background="#529610" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FdHpH4YudfztREFfO2jc-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="FdHpH4YudfztREFfO2jc-1" target="FdHpH4YudfztREFfO2jc-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FdHpH4YudfztREFfO2jc-1" value="1st commit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="30" y="65" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FdHpH4YudfztREFfO2jc-14" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FdHpH4YudfztREFfO2jc-2" target="FdHpH4YudfztREFfO2jc-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FdHpH4YudfztREFfO2jc-2" value="2nd commit in master" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="230" y="65" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FdHpH4YudfztREFfO2jc-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FdHpH4YudfztREFfO2jc-13" target="FdHpH4YudfztREFfO2jc-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FdHpH4YudfztREFfO2jc-13" value="3rd commit in new branch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="230" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FdHpH4YudfztREFfO2jc-17" value="&lt;p style=&quot;line-height: 150%; font-size: 28px;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;merge&lt;/div&gt;&lt;p style=&quot;font-size: 28px;&quot;&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;align=center;horizontal=0;fontSize=28;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="520" y="65" width="50" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="FdHpH4YudfztREFfO2jc-18" value="another commit in new branch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="380" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FdHpH4YudfztREFfO2jc-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fillColor=#008a00;strokeColor=#005700;" edge="1" source="FdHpH4YudfztREFfO2jc-21" target="FdHpH4YudfztREFfO2jc-23" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FdHpH4YudfztREFfO2jc-21" value="1st commit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="30" y="355" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FdHpH4YudfztREFfO2jc-22" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="FdHpH4YudfztREFfO2jc-23" target="FdHpH4YudfztREFfO2jc-25" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FdHpH4YudfztREFfO2jc-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FdHpH4YudfztREFfO2jc-23" target="FdHpH4YudfztREFfO2jc-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FdHpH4YudfztREFfO2jc-23" value="2nd commit in master" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="210" y="355" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FdHpH4YudfztREFfO2jc-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="FdHpH4YudfztREFfO2jc-25" target="FdHpH4YudfztREFfO2jc-27" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FdHpH4YudfztREFfO2jc-25" value="3rd commit in new branch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="210" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FdHpH4YudfztREFfO2jc-26" value="&lt;p style=&quot;line-height: 150%; font-size: 28px;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;merge&lt;/div&gt;&lt;p style=&quot;font-size: 28px;&quot;&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;align=center;horizontal=0;fontSize=28;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="520" y="355" width="50" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="FdHpH4YudfztREFfO2jc-27" value="another commit in new branch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="380" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FdHpH4YudfztREFfO2jc-28" value="another commit in master" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="380" y="355" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FdHpH4YudfztREFfO2jc-30" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontSize=13;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="620" y="40" width="50" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="FdHpH4YudfztREFfO2jc-31" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;No conflict&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Forward merge&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="95" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FdHpH4YudfztREFfO2jc-32" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontSize=13;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="620" y="315" width="50" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="FdHpH4YudfztREFfO2jc-33" value="Conflict" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="680" y="370" width="120" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
