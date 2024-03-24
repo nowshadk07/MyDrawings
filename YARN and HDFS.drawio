@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-24T07:37:15.513Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="PBQP7Dk4zvV1rJmq9C8q" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-24T07:38:22.423Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="4th9eRg4Btg8Uepl4d39" version="24.1.0" type="github">
   <diagram name="Page-1" id="phz_FprpEc_0Dcnx_o0i">
     <mxGraphModel dx="1290" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -392,19 +392,19 @@
           <mxGeometry x="30" y="212" width="60" height="72" as="geometry" />
         </mxCell>
         <mxCell id="AlaG7t0pZhiAt_VEpUe0-176" value="Master Node" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="264" y="880" width="70" height="40" as="geometry" />
+          <mxGeometry x="205" y="890" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AlaG7t0pZhiAt_VEpUe0-177" value="Worker Node 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="390" y="880" width="70" height="40" as="geometry" />
+          <mxGeometry x="331" y="890" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AlaG7t0pZhiAt_VEpUe0-182" value="Worker Node 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="490" y="880" width="70" height="40" as="geometry" />
+          <mxGeometry x="431" y="890" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AlaG7t0pZhiAt_VEpUe0-183" value="Worker Node 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="615" y="880" width="70" height="40" as="geometry" />
+          <mxGeometry x="556" y="890" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AlaG7t0pZhiAt_VEpUe0-184" value="Worker Node 4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="745" y="880" width="70" height="40" as="geometry" />
+          <mxGeometry x="686" y="890" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
